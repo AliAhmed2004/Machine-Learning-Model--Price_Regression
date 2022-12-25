@@ -4,3 +4,5 @@ In this project, we're going to use machine learning to predict the auction sale
 
 The question to ask is:
 How well can we predict the future sale price of a bulldozer, given its characterisitcs and previous examples of how much other bulldozers have been sold for?
+
+The dataset used for this project is available at kaggle: https://www.kaggle.com/competitions/bluebook-for-bulldozers/data
